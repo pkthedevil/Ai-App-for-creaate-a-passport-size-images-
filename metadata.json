@@ -1,0 +1,6 @@
+{
+  "name": "Passport & Stamp Photo Studio Pro",
+  "description": "Professional PC application to auto-crop, auto-detect face, enhance resolution & clarity, and layout batch passport and stamp size photos for printing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
