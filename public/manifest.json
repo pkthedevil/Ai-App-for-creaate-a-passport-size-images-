@@ -1,0 +1,22 @@
+{
+  "short_name": "SnapPrint Pro",
+  "name": "Passport & Stamp Photo Studio Pro",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "display": "standalone",
+  "orientation": "any",
+  "description": "Professional Passport & Stamp Photo Studio for Desktop and PC"
+}
